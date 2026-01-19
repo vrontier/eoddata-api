@@ -8,14 +8,14 @@ I am a long-time subscriber of EODData and have created this library for my own 
 
 ## Installation
 
-Due to a pending request regarding its naming, the package is not yet available at [PyPI](https://pypi.org) production but only at [Test PyPI](https://test.pypi.org).
+Due to a pending request regarding its naming, the package is available at [PyPI](https://pypi.org) and at [Test PyPI](https://test.pypi.org).
 
-You can install the production version package from there for testing purposes:
+You can install the latest version package from there with:
 ```bash
 pip install eoddata-api
 ```
 
-Please note that this package has a different version (due to development and publishing tests) than the one on PyPI will have. But you can uninstall it once the package at PyPI will be available as the functionality will be the same.
+Please note that the package on PyPI Test has a different version (due to development and publishing tests) than the one on PyPI Production. 
 
 ## API Key
 
