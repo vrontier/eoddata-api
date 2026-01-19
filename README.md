@@ -1,6 +1,6 @@
 # EODData Python Client
 
-A pythonic client library for accessing [EODData.com](https://eoddata.com) data API giving access to historical market data and fundamental data of various stock exchanges around the world, including the US, Canada, Europe. The package echos the EODData REST API and adds API call accounting with quotas so that you can track your usage.
+A pythonic client library for [EODData.com's](https://eoddata.com/) data API giving access to historical market data and fundamental data of various stock exchanges around the world, including the US, Canada, Europe. The package echos the EODData REST API and adds API call accounting with quotas so that you can track your usage.
 
 Any API call beside Metadata requires an API key, which you will receive by registering yourself as a user. A free tier exists, which allows one to access US equities, crypto currencies, global indices and forex pairs (daily request limit). For more information about their products and services, please check their website.
 
@@ -8,7 +8,7 @@ I am a long-time subscriber of EODData and have created this library for my own 
 
 ## Installation
 
-The package is available at [PyPI](https://pypi.org) and at [Test PyPI](https://test.pypi.org).
+The package is available at [PyPI](https://pypi.org/project/eoddata-api/) and at [Test PyPI](https://test.pypi.org/project/eoddata-api/).
 
 You can install the latest version package from there with:
 ```bash
