@@ -8,7 +8,7 @@ I am a long-time subscriber of EODData and have created this library for my own 
 
 ## Installation
 
-Due to a pending request regarding its naming, the package is available at [PyPI](https://pypi.org) and at [Test PyPI](https://test.pypi.org).
+The package is available at [PyPI](https://pypi.org) and at [Test PyPI](https://test.pypi.org).
 
 You can install the latest version package from there with:
 ```bash
